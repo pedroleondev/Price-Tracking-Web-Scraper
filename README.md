@@ -53,3 +53,7 @@ I have created a simple `.bat` script called `run.bat` that you can schedule to 
 
 👉 **[Start your journey today!](https://techwithtim.net/dev)**  
 No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+
+Video example:
+
+https://www.youtube.com/watch?v=DJnH0jR8y5Q
